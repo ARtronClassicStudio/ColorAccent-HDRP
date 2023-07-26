@@ -1,5 +1,9 @@
-# Color Accent-URP
-![image](https://github.com/ARtronClassicStudio/ColorAccent/assets/68843488/92803a5f-dd87-4134-b1b6-f6beb01f0c96)
+# Color Accent-HDRP
+
+support for URP
+
+![image](https://github.com/ARtronClassicStudio/ColorAccent-HDRP/assets/68843488/bc2f940a-8e36-4e22-bcd7-1bba5ecdfe8f)
+
 
 # Installation:
 Copy and paste in Package Manager:
@@ -14,22 +18,26 @@ Wait for compilation and this will complete the installation of the package.
 
 # Usage:
 
-Select your URP-Renderer asset and add to it "Color Accent Renderer":
+Open Project Settings > Graphics > HDRP Gloabal Settings, then add "ColorAccent" to After Post Process:
 
-![image](https://github.com/ARtronClassicStudio/ColorAccent/assets/68843488/d69bb588-38df-43a3-9f9f-b2e806a7fc2f)
+![image](https://github.com/ARtronClassicStudio/ColorAccent-HDRP/assets/68843488/78d296f8-4a1f-429f-9542-f5579917225a)
 
 
-
-You only need to add it once, but you can also add more to increase the effect.
 
 Next select your Global Volume and add "Color Accent" and turn it on. :
 
-![image](https://github.com/ARtronClassicStudio/ColorAccent/assets/68843488/5456eb4a-ae62-4ddb-b681-33ec0bbf2c87)
+![image](https://github.com/ARtronClassicStudio/ColorAccent-HDRP/assets/68843488/fb28b7f5-e238-4c0b-9380-fa37ebc3a3d9)
+
 
 
 Effect settings are intuitive and easy, without any complexity.
 
-![image](https://github.com/ARtronClassicStudio/ColorAccent/assets/68843488/081aae9c-6708-43ab-8996-324dd7fe5fc1)
+![image](https://github.com/ARtronClassicStudio/ColorAccent-HDRP/assets/68843488/a638b81e-32d1-4366-b007-91349ec408ca)
 
 
-There is also support for HDRP and Built-in but they will come later.
+# Attention! 
+
+Due to the HDRP rendering feature, there can be such artifacts, so it is very important that you set the lighting correctly.
+
+![ar](https://github.com/ARtronClassicStudio/ColorAccent-HDRP/assets/68843488/f37eed76-d93c-4ddb-a8eb-97f01956113f)
+
