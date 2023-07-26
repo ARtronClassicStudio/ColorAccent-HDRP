@@ -9,10 +9,8 @@
 Copy and paste in Package Manager:
 
 ```C#
-https://github.com/ARtronClassicStudio/ColorAccent.git
+https://github.com/ARtronClassicStudio/ColorAccent-HDRP.git
 ```
-
-
 
 Wait for compilation and this will complete the installation of the package.
 
